@@ -13,6 +13,10 @@ B.Tech Artificial Intelligence student with core strengths in Deep Learning, NLP
 ---
 
 ## Experience
+<h2 align="center">
+  <span style="filter: blur(0.5px) brightness(1.2); text-shadow: 0 0 4px #0ef;">Live. Code. Iterate.</span>
+</h2>
+
 
 **Research Intern**  
 **CSIR – National Physical Laboratory (Govt. of India)**  
