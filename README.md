@@ -6,10 +6,22 @@
 
 ---
 
-## Summary
+## About me
 
-B.Tech Artificial Intelligence student with core strengths in Deep Learning, NLP, Generative AI, and Embedded IoT systems. Experienced in building secure cloud-based data ingestion pipelines, real-time AI solutions, and multimodal intelligent systems. Hackathon winner at IIT, IIM, and IISc. Focused on developing scalable, research-backed products that solve real-world challenges.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213907751-b72c7d4d-1c61-4d61-b274-8c4e8b7d3b1a.gif" width="320" alt="AI Animation">
+</div>
 
+I'm **Ravinder Singh**, a final-year **B.Tech Artificial Intelligence** student. I design and deploy real-world systems combining **AI**, **IoT**, and **graph intelligence**. My work spans:
+
+- Secure cloud ingestion platforms for national research labs  
+- Prompt-to-3D model generators using LLMs  
+- RAG pipelines integrating multimodal embeddings and vector search  
+- Edge AI systems for real-time public safety monitoring  
+
+I believe in turning **research into deployment**, fast.
+
+---
 ---
 
 ## Experience
