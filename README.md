@@ -45,13 +45,13 @@ March 2025 – May 2025, Gurugram
 
 ---
 
-## Highlight Projects
+## Highlighted Projects
 
 | Project | Description | Tags | Link |
 |--------|-------------|------|------|
-| **LLM-Based 3D Modeller** | Converts prompts into 3D models using LLM and OpenSCAD. | `3D Models` `CAD` `LLM` | [GitHub](#) |
+| **LLM-Based 3D Modeller** | Converts prompts into 3D models using LLM and OpenSCAD. | `3D Models` `CAD` `LLM` | [View](https://lostdevs.io/community/ravinder/#work) |
 | **Project N: Women Safety** | Real-time monitoring and alert system using OpenVINO. | `IoT` `OpenCV` `OpenVINO` | [GitHub](#) |
-| **Bug Testing Tool** | Python+Flask system to test 8 vulnerability types. | `Security` `Flask` `PDF` | [GitHub](#) |
+| **Eat The Creepy Crawlies: Bug Testing Tool** | Python+Flask system to test 8 vulnerability types. | `Security` `Flask` `PDF` | [GitHub](#) |
 | **Flora RAG** | RAG system using ImageBind, KDB.ai, Gemini. | `RAG` `Gemini` `Word Embedding` | [GitHub](#) |
 | **Smart Environment Cloud** | IoT + PostgreSQL backend built for NPL. | `IoT` `PHP` `PostgreSQL` | [GitHub](#) |
 
