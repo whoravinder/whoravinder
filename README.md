@@ -31,120 +31,70 @@ March 2025 – May 2025, Gurugram
 
 ## Highlight Projects
 
-### LLM-Based 3D Modeller
-Prompt-driven system to build 3D models using natural language input.  
-- Converts prompts into OpenSCAD-compatible .stl files  
-- LLM-powered parametric model generation  
-Tags: `3D Models` `CAD` `LLM`  
-[GitHub](#)
-
-### Project N: Women Safety and Analytic Tool  
-Real-time safety monitoring using lightweight AI and IoT.  
-- Gesture and situation detection  
-- Real-time smart alerts and monitoring  
-- OpenVINO-optimized edge model  
-Tags: `IoT` `OpenCV` `OpenVINO`  
-[GitHub](#)
-
-### Eat The Creepy Crawlies: Bug Testing Tool  
-Python-based vulnerability scanner with report generation.  
-- Detects 8 types of security flaws  
-- Generates PDF report  
-- Flask-based GUI  
-Tags: `Bug Tester` `Flask` `Security`  
-[GitHub](#)
-
-### Flora RAG: Multimodal AI for Flower Identification  
-RAG-powered system for context-based image and text analysis.  
-- Uses ImageBind for embeddings  
-- KDB.ai for vector search  
-- Gemini for content generation  
-Tags: `RAG` `Gemini` `Word Embedding`  
-[GitHub](#)
-
-### Smart Environment Monitoring with Internal Cloud  
-Complete backend system for sensor management and data sync.  
-- Built for National Physical Laboratory, India  
-- Modular PHP controllers with PostgreSQL backend  
-- Integrated user authentication and data visualization  
-Tags: `IoT` `PostgreSQL` `PHP`  
-[GitHub](#)
+| Project | Description | Tags | Link |
+|--------|-------------|------|------|
+| **LLM-Based 3D Modeller** | Converts prompts into 3D models using LLM and OpenSCAD. | `3D Models` `CAD` `LLM` | [GitHub](#) |
+| **Project N: Women Safety** | Real-time monitoring and alert system using OpenVINO. | `IoT` `OpenCV` `OpenVINO` | [GitHub](#) |
+| **Bug Testing Tool** | Python+Flask system to test 8 vulnerability types. | `Security` `Flask` `PDF` | [GitHub](#) |
+| **Flora RAG** | RAG system using ImageBind, KDB.ai, Gemini. | `RAG` `Gemini` `Word Embedding` | [GitHub](#) |
+| **Smart Environment Cloud** | IoT + PostgreSQL backend built for NPL. | `IoT` `PHP` `PostgreSQL` | [GitHub](#) |
 
 ---
 
 ## Skills
 
-**Languages:** Python, Java, C, R  
-**Frontend:** HTML, CSS, JavaScript  
-**Backend:** PHP, Arduino IDE  
-**Database:** Supabase, Firebase, PostgreSQL  
-**Libraries:** PyTorch, Keras  
-**Tools:** Colab, Jupyter, NextCloud  
-**Soft Skills:** Leadership, Teamwork
+```
+Languages      :: Python, Java, C, R
+Frontend       :: HTML, CSS, JavaScript
+Backend        :: PHP, Arduino IDE
+Database       :: Supabase, Firebase, PostgreSQL
+Libraries      :: PyTorch, Keras
+Tools          :: Jupyter, Colab, Nextcloud
+Soft Skills    :: Leadership, Teamwork
+```
 
 ---
 
 ## Education
 
-**Amity University, Noida**  
-B.Tech – Artificial Intelligence (2022–2026)  
-GPA: 7.93/10 (5th Sem)
-
-**Guru Harkrishan Public School, Sri Ganganagar**  
-Class 12 – 87%
+- **B.Tech – Artificial Intelligence**, Amity University, Noida (2022–2026)  
+  GPA: 7.93/10 (5th Sem)
+- **Class 12 – 87%**, Guru Harkrishan Public School, Sri Ganganagar
 
 ---
 
 ## Community Leadership
 
-**Founder, Lost Devs**  
-Established an active online developer community offering mentorship, resources, and collaborative tools.  
-- Hosted a mental health awareness initiative using AI  
-- Built platforms for internship listings, interview prep, and peer support  
-- Focused on open-source and AI-powered tooling  
+**Founder – Lost Devs**  
+- Built a developer community platform focused on mentorship and real-world collaboration  
+- Created tools for internship tracking, resume screening, and project showcases  
+- Led mental-health awareness initiative with AI integration
 
 ---
 
-## Positions
+## Roles and Recognition
 
-Chair, IEEE Student Branch – Amity University  
-Jan 2025 – Present
-
----
-
-## Languages
-
-- English (Advanced)  
-- Punjabi, Hindi (Native)
+- Chair – IEEE Student Branch, Amity University (2025–Present)  
+- Hackathon Winner – IIT Kharagpur, IIM Bodh Gaya, IISc Bangalore
 
 ---
 
-## GitHub Stats
+## Dynamic Elements
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213907751-b72c7d4d-1c61-4d61-b274-8c4e8b7d3b1a.gif" width="500" alt="AI Animation">
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoravinder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoravinder&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <a href="https://lostdevs.io"><img src="https://img.shields.io/badge/LostDevs-Explore-darkgreen?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/ravinderwbt"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:whoravinder@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
-## Contribution Graph
+## Visitor Counter
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whoravinder&theme=react-dark&hide_border=true" />
+  <img src="https://profile-counter.glitch.me/whoravinder/count.svg" />
 </p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=whoravinder&theme=monokai&hide_border=true" />
-</p>
-
----
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/ravinderwbt)  
-[Gmail](mailto:whoravinder@gmail.com)
