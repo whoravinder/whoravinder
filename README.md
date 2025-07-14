@@ -22,7 +22,7 @@ I'm **Ravinder Singh**, a final-year **B.Tech Artificial Intelligence** student.
 I believe in turning **research into deployment**, fast.
 
 ---
----
+
 
 ## Experience
 <h2 align="center">
