@@ -84,6 +84,18 @@ Soft Skills    :: Leadership, Teamwork
 ---
 
 ## Dynamic Elements
+---
+
+## Visual Effects
+
+<div align="center">
+  <iframe src="https://particles.js.org/samples/simple.html" width="100%" height="300" style="border:none; pointer-events: none;"></iframe>
+</div>
+
+<h2 align="center">
+  <span style="filter: blur(0.5px) brightness(1.2); text-shadow: 0 0 4px #0ef;">Live. Code. Iterate.</span>
+</h2>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213907751-b72c7d4d-1c61-4d61-b274-8c4e8b7d3b1a.gif" width="500" alt="AI Animation">
