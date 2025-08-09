@@ -1,16 +1,13 @@
 <h1 align="center">Hey I am Ravinder👋</h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI/ML+Researcher;Developer;Author" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=500&color=FF6600&center=true&vCenter=true&width=500&lines=AI/ML+Researcher;Developer;Author;Innovator" alt="Typing SVG" />
 </p>
 
----
+
 
 ## About me
 
 22-year-old nerd chef cooking up AI recipes seasoned with **Machine Learning**, **Deep Learning**, **Generative AI**, **Retrieval-Augmented Generation(RAG)**, **Computer Vision**, **Federated Learning**, **Multimodal Fusion**, and **Bias**(*swaad anusar*).
-
-
 
 
 ## Explore my delicious dishes
