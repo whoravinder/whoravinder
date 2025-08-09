@@ -12,7 +12,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/213907751-b72c7d4d-1c61-4d61-b274-8c4e8b7d3b1a.gif" width="320" alt="AI Animation">
 </div>
 
-22 year old **Nerdy** kid cooking **AI Models** with flavors of **Machine Learning** , **Deep Learning**, **Generative AI**, **Augmented Reality**, **Computer Vision**, **Federated Learning** , **Multimodal fusion** and **biasness(swaad anusar)**
+22-year-old nerd cooking up AI recipes — seasoned with **Machine Learning**, **Deep Learning**, **Generative AI**, **Retrieval-Augmented Generation(RAG)**, **Computer Vision**, **Federated Learning**, **Multimodal Fusion**, and **Bias**(*swaad anusar*).
+
+
 
 ---
 
