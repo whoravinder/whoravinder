@@ -16,9 +16,8 @@
 
 
 
----
 
-## Highlighted Projects
+## Explore my delicious dishes
 
 | Project | Description | Tags | Link |
 |--------|-------------|------|------|
