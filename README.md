@@ -1,4 +1,4 @@
-<h1 align="center">Hey I am Ravinder, with R for Rational</h1>
+<h1 align="center">Hey I am Ravinder👋</h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&center=true&vCenter=true&width=500&lines=AI/ML+Researcher;Developer;Author" alt="Typing SVG" />
 
