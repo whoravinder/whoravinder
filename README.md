@@ -33,20 +33,21 @@
 
 ---
 
-## Dynamic Elements
+## Let's Talk
 ---
 
 
 <p align="center">
   <a href="https://lostdevs.io"><img src="https://img.shields.io/badge/LostDevs-Explore-darkgreen?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/ravinderwbt"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:whoravinder@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:ravindercjsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
-## Visitor Counter
+## Beautiful People Visiting my Profile
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/whoravinder/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=whoravinder&label=Profile%20views&color=0e75b6&style=flat" alt="whoravinder" />
 </p>
+
