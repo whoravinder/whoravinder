@@ -28,7 +28,7 @@
 
 ---
 
-## Let's Talk
+## Let's Connect
 
 <p align="center">
   <a href="https://lostdevs.io"><img src="https://img.shields.io/badge/LostDevs-Explore-darkgreen?style=for-the-badge" /></a>
@@ -36,9 +36,9 @@
   <a href="mailto:ravindercjsingh@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
----
 
-## 📊 My GitHub at a Glance
+
+## My GitHub at a Glance
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=whoravinder&theme=transparent&hide_border=true&v=1" height="150" />
