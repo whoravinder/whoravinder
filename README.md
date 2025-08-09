@@ -8,7 +8,7 @@
 ## About me
 
 22-year-old nerd chef cooking up AI recipes seasoned with **Machine Learning**, **Deep Learning**, **Generative AI**, **Retrieval-Augmented Generation(RAG)**, **Computer Vision**, **Federated Learning**, **Multimodal Fusion**, and **Bias**(*swaad anusar*).
-<iframe src="https://github.com/sponsors/whoravinder/button" title="Sponsor whoravinder" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 
 
 ## Explore my delicious dishes
