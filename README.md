@@ -65,8 +65,41 @@
   <img src="https://img.shields.io/badge/Generative%20AI-–-informational?style=flat&logo=openai&logoColor=white&color=412991" />
   <img src="https://img.shields.io/badge/RAG-–-informational?style=flat&logo=google&logoColor=white&color=34A853" />
   <img src="https://img.shields.io/badge/Computer%20Vision-–-informational?style=flat&logo=opencv&logoColor=white&color=5C3EE8" />
-  <img src="https://img.shields.io/badge/Federated%20Learning-–-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420" />
 </p>
+
+<p align="center">
+  <!-- Scikit-learn -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" style="margin: 0 10px;"/>
+  
+  <!-- PyTorch -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="50" style="margin: 0 10px;"/>
+  
+
+  
+  <!-- OpenCV -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="50" style="margin: 0 10px;"/>
+  
+  <!-- TensorFlow -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="50" style="margin: 0 10px;"/>
+  
+  <!-- Pandas -->
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="50" style="margin: 0 10px;"/>
+  
+  <!-- NumPy -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="50" style="margin: 0 10px;"/>
+    <!-- PostgreSQL -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" height="50" style="margin: 0 10px;"/>
+
+  <!-- KDB.ai (using Databricks-style icon placeholder) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="KDB.ai" height="50" style="margin: 0 10px;"/>
+
+  <!-- ImageBind (Meta AI logo) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" alt="ImageBind" height="50" style="margin: 0 10px;"/>
+
+  <!-- Flower Icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flower_pictogram.svg" alt="Flower" height="50" style="margin: 0 10px;"/>
+</p>
+
 
 
 ## Contributions
