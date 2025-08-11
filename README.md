@@ -94,10 +94,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="KDB.ai" height="50" style="margin: 0 10px;"/>
 
   <!-- ImageBind (Meta AI logo) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Meta_Platforms_Inc._logo.svg" alt="ImageBind" height="50" style="margin: 0 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Meta_AI_Logo_%28Ring_Only%29.png" alt="ImageBind" height="50" style="margin: 0 10px;"/>
 
   <!-- Flower Icon -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Flower_pictogram.svg" alt="Flower" height="50" style="margin: 0 10px;"/>
+  <img src="https://camo.githubusercontent.com/410aab33619728e33372218ea3db3e8d7502e35fe8cac88d9172f08a34b34521/68747470733a2f2f666c6f7765722e61692f5f6e6578742f696d6167652f3f75726c3d2532465f6e6578742532467374617469632532466d65646961253246666c77722d686561642e34643638383637612e706e6726773d33383426713d3735" alt="Flower" height="50" style="margin: 0 10px;"/>
 </p>
 
 
