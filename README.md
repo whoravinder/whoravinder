@@ -18,7 +18,7 @@
 | **LLM-Based 3D Modeller** | Converts prompts into 3D models using LLM and OpenSCAD. | `3D Models` `CAD` `LLM` | [View](https://lostdevs.io/community/ravinder/#work) |
 | **Project N: Women Safety** | Real-time monitoring and alert system using OpenVINO. | `IoT` `OpenCV` `OpenVINO` | [GitHub](https://github.com/whoravinder/women-safety-pn-optimised) |
 | **Eat The Creepy Crawlies: Bug Testing Tool** | Python+Flask system to test 8 vulnerability types. | `Security` `Flask` `PDF` | [GitHub](#) |
-| **Flora RAG** | RAG system using ImageBind, KDB.ai, Gemini. | `RAG` `Gemini` `Word Embedding` | [GitHub](https://github.com/whoravinder/RAGarden) |
+| **RAGarden** | RAG system using ImageBind, KDB.ai, Gemini. | `RAG` `Gemini` `Word Embedding` | [GitHub](https://github.com/whoravinder/RAGarden) |
 | **Smart Environment Cloud** | IoT + PostgreSQL backend built for NPL. | `IoT` `PHP` `PostgreSQL` | [CONFIDENTIAL PROJECT](#) |
 
 
