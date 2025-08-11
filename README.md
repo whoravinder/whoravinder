@@ -9,6 +9,9 @@
 
 22-year-old nerd chef cooking up AI recipes seasoned with **Machine Learning**, **Deep Learning**, **Generative AI**, **Retrieval-Augmented Generation(RAG)**, **Computer Vision**, **Federated Learning**, **Multimodal Fusion**, and **Bias**(*swaad anusar*).
 
+**Email** : ravindercjsingh@gmail.com <br>
+**Whatsapp** : 8851200962
+
 
 
 ## Explore my delicious dishes
